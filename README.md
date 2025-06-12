@@ -53,12 +53,21 @@
 ```bash
 git clone https://github.com/your-username/charisma-restaurant.git
 cd charisma-restaurant
+```
 
 ### 2. Install dependencies
 
-3. Run the development server
+```bash
+
+npm install
+```
+
+
+### 3. Run the development server
+
 ```bash
 npm run dev
+```
 
 
 Visit http://localhost:3000 in your browser.
@@ -68,6 +77,7 @@ Visit http://localhost:3000 in your browser.
 npm run build
 npm start
 
+```
 
 
 📬 Contact
