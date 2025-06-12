@@ -26,13 +26,21 @@
 
 ## 📁 Project Structure
 
+
 /charisma
+
 ├── components/ # Reusable UI components (Navbar, Footer, etc.)
+
 ├── pages/ # Next.js pages (index.js, menu.js, contact.js, etc.)
+
 ├── public/ # Static assets (images, icons)
+
 ├── styles/ # Global styles (if any)
+
 ├── tailwind.config.js # Tailwind configuration
+
 ├── next.config.js # Next.js configuration
+
 └── package.json # Project dependencies and scripts
 
 
